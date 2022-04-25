@@ -1,0 +1,10 @@
+*{
+    font-family: 'Anton', sans-serif;
+}
+#logo{
+    width: 120px;
+    height: 120px;
+}
+#lista{
+    list-style: none;
+}
